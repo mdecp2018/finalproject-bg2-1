@@ -68,4 +68,33 @@ $(function(){
 </ul>
 </confmenu></header>
 <div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='Introduction.html'>Introduction</a><li><a href='Course.html'>Course</a><li><a href='Independent Study.html'>Independent Study</a><ul><li><a href='week10.html'>week10</a><li><a href='week11.html'>week11</a><li><a href='week12.html'>week12</a><li><a href='week13.html'>week13</a><li><a href='week14.html'>week14</a><li><a href='week15.html'>week15</a><li><a href='week16.html'>week16</a></li></ul><li><a href='Issue＆Solution.html'>Issue＆Solution</a><li><a href='Experience.html'>Experience</a><li><a href='Final Report.html'>Final Report</a><li><a href='Attend＆Absence.html'>Attend＆Absence</a></li></ul></nav><section>week14 << <a href='week14.html'>Previous</a> <a href='week16.html'>Next</a> >> week16<br /><h1>week15</h1>
-<br />week14 << <a href='week14.html'>Previous</a> <a href='week16.html'>Next</a> >> week16</section></div></body></html>
+<p>練習python語法 </p>
+<p>開始練習 print()用法,並著手建立含式</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false"># Turtle3 繪圖
+# https://michael0x2a.com/blog/turtle-examples
+from browser import document as doc
+import turtle
+turtle.set_defaults(
+    turtle_canvas_wrapper = doc['brython_div']
+)
+painter = turtle.Turtle()
+
+painter.pencolor("pink")
+
+for i in range(50):
+    painter.forward(80)
+    painter.left(123) # Let's go counterclockwise this time 
+    
+painter.pencolor("green")
+for i in range(50):
+    painter.forward(160)
+    painter.left(123) # Let's go counterclockwise this time
+    
+painter.pencolor("black")
+for i in range(50):
+    painter.forward(240)
+    painter.left(123) # Let's go counterclockwise this time     
+
+turtle.done()
+</pre>
+<p><img alt="" height="1005" src="./../images/擷取.PNG" width="1083"/><br/><br/></p><br />week14 << <a href='week14.html'>Previous</a> <a href='week16.html'>Next</a> >> week16</section></div></body></html>
