@@ -30,6 +30,24 @@
 <v t="leo.20190105153900.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190105153900.3"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190105225803.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105225803.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105230726.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105230726.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105231158.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105231158.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105231537.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105231537.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105232137.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105232137.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105232457.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105232457.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20190105154248.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190105154248.2"><vh>封面投影片內容</vh></v>
 </v>
@@ -362,7 +380,9 @@ make.start()
 
 40723208 吳烜安
 
-40723248 簡銘誠</t>
+40723248 簡銘誠
+
+</t>
 <t tx="leo.20190105153900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -405,7 +425,9 @@ make.start()
 
 W是往上跳
 
-A,D分別是往左右移動</t>
+A,D分別是往左右移動
+
+</t>
 <t tx="leo.20190105154951.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -433,5 +455,89 @@ A,D分別是往左右移動</t>
 
 https://youtu.be/kU9fH0wTVbk
 </t>
+<t tx="leo.20190105225803.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105225803.2">## week10
+
+[更新p37 開啟eric6並且開發視窗程式](https://www.youtube.com/watch?v=iOBPj72CW2A&amp;t=6s)
+
+
+</t>
+<t tx="leo.20190105230726.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105230726.2">## week11-12
+
+創建heroku帳號並且與github連結
+
+&lt;a href="https://imgur.com/ZKw7LJ6"&gt;&lt;img src="https://i.imgur.com/ZKw7LJ6.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190105231158.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105231158.2">## week13
+
+[練習leo更改小遊戲的程式](https://www.youtube.com/watch?v=yZjmR9va84M&amp;t=1284s)
+
+</t>
+<t tx="leo.20190105231537.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105231537.2">## week14
+
+練習leo更改login  (打bg2會出現helloworld)
+
+&lt;a href="https://imgur.com/jwygdLJ"&gt;&lt;img src="https://i.imgur.com/jwygdLJ.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190105232137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105232137.2">## week15
+
+用mde.tw 裡的python網站 練習python語法 
+
+&lt;a href="https://imgur.com/yzripC3"&gt;&lt;img src="https://i.imgur.com/yzripC3.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190105232457.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105232457.2">## week16-17
+
+期末專題</t>
 </tnodes>
 </leo_file>
