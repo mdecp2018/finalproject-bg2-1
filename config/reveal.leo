@@ -23,13 +23,26 @@
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20190105152414.1"><vh>封面投影片內容</vh></v>
-<v t="leo.20190105152538.1"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105153808.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105153808.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105153900.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105153900.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105154248.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105154248.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105154951.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105154951.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190105165637.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190105165637.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -328,39 +341,97 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190105152414.1">## 組員:
+<t tx="leo.20190105153808.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105153808.3">## 組員:
 
 40723247 賴冠勛
+
 40723226 高立倫
+
 40723205 王立瑋
+
 40723243 劉子源
+
 40723208 吳烜安
-40723248 簡銘誠
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+40723248 簡銘誠</t>
+<t tx="leo.20190105153900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+
+						
+</t>
+<t tx="leo.20190105153900.3">## 分工內容
+
+賴冠勛: 製作投影片、討論小遊戲、每周的PDF報告、更新網站內容與維護、製作小遊戲、製作期末PDF報告
+
+劉子源: 討論小遊戲、更新網站內容與維護、製作小遊戲、製作期末PDF報告
+
+高立倫:更新網站內容與維護
+
+吳烜安:更新網站內容與維護
+
+王立瑋:更新網站內容與維護
+
+簡銘誠:更新網站內容與維護
 
 
 </t>
-<t tx="leo.20190105152538.1">## 分工內容
-
-賴冠勛: 製作投影片、討論小遊戲、每周的PDF報告、更新網站內容與維護、製作小遊戲
-劉子源: 討論小遊戲、更新網站內容與維護、製作小遊戲
-高立倫:更新網站內容與維護
-吳烜安:更新網站內容與維護
-王立瑋:更新網站內容與維護
-簡銘誠:更新網站內容與維護
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
+<t tx="leo.20190105154248.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
+						
+</t>
+<t tx="leo.20190105154248.2">## 專題內容
+
+投籃小遊戲
+
+我們總共有三個籃框然後可以使用wasd來控制我們的籃球
+
+W是往上跳
+
+A,D分別是往左右移動</t>
+<t tx="leo.20190105154951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105154951.2">## 專題圖片
+
+
+&lt;a href="https://imgur.com/VNhlICW"&gt;&lt;img src="https://i.imgur.com/VNhlICW.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190105165637.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105165637.2">## 專題小遊戲的影片
+
+https://youtu.be/kU9fH0wTVbk
 </t>
 </tnodes>
 </leo_file>
